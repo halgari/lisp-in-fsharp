@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "EffectTest", "EffectTest\EffectTest.fsproj", "{B765DDF5-67F9-4D7F-AAF7-A0C131C8DAAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B765DDF5-67F9-4D7F-AAF7-A0C131C8DAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B765DDF5-67F9-4D7F-AAF7-A0C131C8DAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B765DDF5-67F9-4D7F-AAF7-A0C131C8DAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B765DDF5-67F9-4D7F-AAF7-A0C131C8DAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0646E156-8043-460E-B71C-1F2294FAE774}
+	EndGlobalSection
+EndGlobal
